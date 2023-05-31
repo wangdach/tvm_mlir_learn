@@ -121,7 +121,7 @@ $$
 ## UML 图
 
 您可以使用 [Mermaid](https://mermaidjs.github.io/) 渲染 UML 图。例如，这将产生一个序列图：
-
+![输入图片说明](/imgs/2023-05-31/aK4AukUH4aFMml94.png)![Featured Image](https://www.lei.chat/posts/mlir-codegen-dialects-for-machine-learning-compilers/codegen-dialect-hierarchy.svg)
 ```mermaid
 sequenceDiagram
 爱丽丝 ->> 鲍勃: 你好鲍勃，你好吗？
@@ -144,5 +144,5 @@ B --> D{菱形}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbMTc5NzM3ODEwOCwtMjY5ODAyNjQ0XX0=
 -->
